@@ -1,0 +1,11 @@
+{
+  "name": "thepiratebay.org-api",
+  "version": "1.0.0",
+  "description": "thepiratebay.org official site's api",
+  "main": "thepiratebay-api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
